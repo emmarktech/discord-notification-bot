@@ -16,19 +16,6 @@ A powerful Discord notification bot built to send automated and custom notificat
 
 # Installation
 
-## Clone the repository
-
-```bash
-git clone https://github.com/emmarktech/discord-notification-bot.git
-cd discord-notification-bot
-```
-
-## Install dependencies
-
-```bash
-npm install
-```
-
 ## Configure environment variables
 
 Create a `.env` file in the root directory:
@@ -62,11 +49,8 @@ You can deploy the bot on:
 
 # Video Demo
 
-Attach your demo video here:
 
-```md
-[Watch Demo Video](demo.mp4)
-```
+<video src="demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ---
 
