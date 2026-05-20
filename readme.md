@@ -19,7 +19,7 @@ A powerful Discord notification bot built to send automated and custom notificat
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/discord-notification-bot.git
+git clone https://github.com/emmarktech/discord-notification-bot.git
 cd discord-notification-bot
 ```
 
@@ -65,7 +65,7 @@ You can deploy the bot on:
 Attach your demo video here:
 
 ```md
-[Watch Demo Video](./demo.mp4)
+[Watch Demo Video](demo.mp4)
 ```
 
 ---
