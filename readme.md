@@ -49,8 +49,8 @@ You can deploy the bot on:
 
 # Video Demo
 
+[![Demo](thumbnail.png)](https://raw.githubusercontent.com/emmarktech/discord-notification-bot/main/demo.mp4)
 
-<video src="https://raw.githubusercontent.com/emmarktech/discord-notification-bot/main/demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ---
 
