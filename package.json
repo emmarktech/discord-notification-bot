@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node disbot.js"
+  },
+  "dependencies": {
+    "debug": "^4.4.3"
+  }
+}
